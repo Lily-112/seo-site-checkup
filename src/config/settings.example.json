@@ -1,0 +1,5 @@
+{
+  "user_agent": "SEO-Scraper/1.0",
+  "timeout_seconds": 10,
+  "max_keywords": 10
+}
